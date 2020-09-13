@@ -1,5 +1,4 @@
-# arima_garch
-ARIMA &amp; GARCH models for stock price prediction.
+# ARIMA &amp; GARCH models for stock price prediction.
 
 If you have problems during opening .ipynb files in github you can use nbviewer:
 * [ARIMA](https://nbviewer.jupyter.org/github/jbogocz/arima_garch/blob/master/arima.ipynb)
