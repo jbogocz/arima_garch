@@ -1,13 +1,13 @@
 # ARIMA &amp; GARCH models for stock price prediction.
 
 If you have problems during opening .ipynb files in github you can use nbviewer:
-* [ARIMA](https://nbviewer.jupyter.org/github/jbogocz/arima_garch/blob/master/arima.ipynb)
-* [GARCH](https://nbviewer.jupyter.org/github/jbogocz/arima_garch/blob/master/garch.ipynb)
+* <a href="https://nbviewer.jupyter.org/github/jbogocz/arima_garch/blob/master/arima.ipynb" target="_blank">ARIMA</a>
+* <a href="https://nbviewer.jupyter.org/github/jbogocz/arima_garch/blob/master/garch.ipynb" target="_blank">GARCH</a>
 
 ## Table of contents
 * [Timeseries data](#timeseries)
-* [ARIMA model description](#arima)
-* [GARCH model description](#garch)
+* [ARIMA model](#arima)
+* [GARCH model](#garch)
 
 ## Technologies
 * Python version: 3.7
